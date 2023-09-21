@@ -1,0 +1,31 @@
+{
+  "id": "102222904300567251139",
+  "displayName": "Osvaldo Paniccia",
+  "name": {
+    "familyName": "Paniccia",
+    "givenName": "Osvaldo"
+  },
+  "emails": [
+    {
+      "value": "sattohman@gmail.com",
+      "verified": true
+    }
+  ],
+  "photos": [
+    {
+      "value": "https://lh3.googleusercontent.com/a/ACg8ocJWA5w1isvR_bDxODxg-KcbvWE30Eu4ZzcW-xdEAaCI=s96-c"
+    }
+  ],
+  "provider": "google",
+  "_raw": "{\n  \"sub\": \"102222904300567251139\",\n  \"name\": \"Osvaldo Paniccia\",\n  \"given_name\": \"Osvaldo\",\n  \"family_name\": \"Paniccia\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/ACg8ocJWA5w1isvR_bDxODxg-KcbvWE30Eu4ZzcW-xdEAaCI\\u003ds96-c\",\n  \"email\": \"sattohman@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"it\"\n}",
+  "_json": {
+    "sub": "102222904300567251139",
+    "name": "Osvaldo Paniccia",
+    "given_name": "Osvaldo",
+    "family_name": "Paniccia",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocJWA5w1isvR_bDxODxg-KcbvWE30Eu4ZzcW-xdEAaCI=s96-c",
+    "email": "sattohman@gmail.com",
+    "email_verified": true,
+    "locale": "it"
+  }
+}
